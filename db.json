@@ -1,0 +1,169 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name": "Pepperoni Pizza",
+      "isSpicy": false,
+      "region": "Cairo",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.5 },
+        { "name": "Domino's Pizza", "rating": 4.2 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Margherita Pizza",
+      "isSpicy": false,
+      "region": "Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg",
+      "restaurants": [
+        { "name": "Pizza Express", "rating": 4.0 },
+        { "name": "Papa John's", "rating": 4.1 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Spicy Chicken Pizza",
+      "isSpicy": true,
+      "region": "Cairo and Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.3 },
+        { "name": "Domino's Pizza", "rating": 4.0 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hawaiian Pizza",
+      "isSpicy": false,
+      "region": "Cairo",
+      "imageUrl": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg",
+      "restaurants": [
+        { "name": "Pizza Express", "rating": 4.2 },
+        { "name": "Papa John's", "rating": 4.0 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "BBQ Chicken Pizza",
+      "isSpicy": false,
+      "region": "Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.4 },
+        { "name": "Domino's Pizza", "rating": 4.1 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Veggie Supreme Pizza",
+      "isSpicy": false,
+      "region": "Cairo and Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg",
+      "restaurants": [
+        { "name": "Pizza Express", "rating": 4.3 },
+        { "name": "Papa John's", "rating": 4.2 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mushroom Pizza",
+      "isSpicy": false,
+      "region": "Cairo",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.0 },
+        { "name": "Domino's Pizza", "rating": 3.9 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Four Cheese Pizza",
+      "isSpicy": false,
+      "region": "Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg",
+      "restaurants": [
+        { "name": "Pizza Express", "rating": 4.1 },
+        { "name": "Papa John's", "rating": 4.0 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pepper and Onion Pizza",
+      "isSpicy": false,
+      "region": "Cairo and Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.2 },
+        { "name": "Domino's Pizza", "rating": 4.1 }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Buffalo Chicken Pizza",
+      "isSpicy": true,
+      "region": "Cairo",
+      "imageUrl": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg",
+      "restaurants": [
+        { "name": "Pizza Express", "rating": 4.3 },
+        { "name": "Papa John's", "rating": 4.2 }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Meat Lover's Pizza",
+      "isSpicy": false,
+      "region": "Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.4 },
+        { "name": "Domino's Pizza", "rating": 4.3 }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Artichoke Pizza",
+      "isSpicy": false,
+      "region": "Cairo and Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg",
+      "restaurants": [
+        { "name": "Pizza Express", "rating": 4.1 },
+        { "name": "Papa John's", "rating": 4.0 }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sausage Pizza",
+      "isSpicy": false,
+      "region": "Cairo",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.3 },
+        { "name": "Domino's Pizza", "rating": 4.2 }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Spinach and Feta Pizza",
+      "isSpicy": false,
+      "region": "Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/slice-crispy-pizza-with-meat-cheese_140725-6974.jpg",
+      "restaurants": [
+        { "name": "Pizza Express", "rating": 4.2 },
+        { "name": "Papa John's", "rating": 4.1 }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Taco Pizza",
+      "isSpicy": true,
+      "region": "Cairo and Giza",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1717934662~exp=1717938262~hmac=508f1113ddcb89a3ce1eb8c0e26f03dbf3a442c8f236676ef0e0bba27e4548af&w=360",
+      "restaurants": [
+        { "name": "Pizza Hut", "rating": 4.4 },
+        { "name": "Domino's Pizza", "rating": 4.3 }
+      ]
+    }
+  ]
+}

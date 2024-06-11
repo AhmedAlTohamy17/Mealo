@@ -1,0 +1,22 @@
+{
+  "name": "Mealo",
+  "version": "1.0.0",
+  "description": "meal app",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "json-server": "^1.0.0-beta.1",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
